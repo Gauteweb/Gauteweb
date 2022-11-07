@@ -1,4 +1,4 @@
-### Gaute Holmin ⚡ 
+### 📌 Introduction 
 
 I'm from Oslo, Norway. Currently employed in the Research & Development department at SuperOffice AS. 
 
