@@ -6,7 +6,7 @@ I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in 
 
 Here you will find short scripts, hacks and similar, either related to my work or to personal projects that i randomly update. 
 
-You can also [follow me on Mastodon](https://snabelen.no/@gauteweb).
+You can also [follow me on Mastodon]([https://snabelen.no/@gauteweb](https://social.vivaldi.net/@gauteweb)).
 
 <!--
 **Gauteweb/Gauteweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
