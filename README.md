@@ -1,6 +1,6 @@
 ### 📌 Introduction 
 
-I'm from Oslo, Norway. Currently employed in the Research & Development department at SuperOffice AS. 
+I'm from Oslo, Norway. Currently employed at Sopra Steria. 
 
 I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in software development and network administration, but I wouldn't really say I've ever worked as a developer. I've mostly worked as a consultant and/or presales in the Application Performance Management space. 
 
