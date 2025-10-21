@@ -6,7 +6,7 @@ I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in 
 
 In my Github repositories you will mostly find old scripts, hacks and similar, either related to my work or to personal projects that may or may not be updated in the future. I cannot guarantee that they work anymore ;-)
 
-If you would like to get in thouch, please a href="https://mikrobloggen.no/@gauteweb" rel="me">follow me on Mastodon</a> or [join my Discord server for a chat](https://discord.gg/sAE5eX4V2V).
+If you would like to get in thouch, please <a href="https://mikrobloggen.no/@gauteweb" rel="me">follow me on Mastodon</a> or [join my Discord server for a chat](https://discord.gg/sAE5eX4V2V).
 
 <!--
 **Gauteweb/Gauteweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
