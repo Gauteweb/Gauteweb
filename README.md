@@ -1,12 +1,14 @@
 ### 📌 Introduction 
 
-I'm from Oslo, Norway. Currently employed at Sopra Steria as a Product Offering Manager within Observability & Monitoring. 
+I'm from Oslo, Norway. Currently employed at Sopra Steria as a Product Offering Manager within Observability & AIOps. 
 
 I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in software development and network administration, but I wouldn't really say I've ever worked as a developer. I've mostly worked as a consultant and/or presales in the Observability space (_long before it was called "observability"_). 
 
 In my Github repositories you will mostly find old scripts, hacks and similar, either related to my work or to personal projects that may or may not be updated in the future. I cannot guarantee that they work anymore ;-)
 
-If you would like to get in thouch, please <a href="https://mikrobloggen.no/@gauteweb" rel="me">follow me on Mastodon</a> or [join my Discord server for a chat](https://discord.gg/sAE5eX4V2V).
+I also use Github as a backup of my manually coded digital garden.
+
+If you would like to get in thouch, please <a href="https://mikrobloggen.no/@gauteweb" rel="me">follow me on Mastodon</a>.
 
 <!--
 **Gauteweb/Gauteweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
