@@ -6,8 +6,6 @@ I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in 
 
 In my Github repositories you will mostly find old scripts, hacks and similar, either related to my work or to personal projects that may or may not be updated in the future. I cannot guarantee that they work anymore ;-)
 
-I also use Github as a backup of my manually coded digital garden.
-
 If you would like to get in thouch, please <a href="https://mikrobloggen.no/@gauteweb" rel="me">follow me on Mastodon</a>.
 
 <!--
