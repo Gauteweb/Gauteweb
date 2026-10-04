@@ -1,12 +1,14 @@
 ### 📌 Introduction 
 
-I'm from Oslo, Norway. Currently employed at Sopra Steria as a Product Offering Manager within Observability & AIOps. 
+I'm from Oslo, Norway. Currently employed at Sopra Steria as a Tech and Team Lead within Observability & AIOps. 
 
 I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in software development and network administration, but I wouldn't really say I've ever worked as a developer. I've mostly worked as a consultant and/or presales in the Observability space (_long before it was called "observability"_). 
 
 I have some experience in scripting using BASH, VBA, Powershell, KQL and DAX. In my Github repositories you will mostly find old scripts, hacks and similar, either related to my work or to personal projects that may or may not be updated in the future. I cannot guarantee that they work anymore ;-)
 
-If you would like to get in thouch, please <a href="https://social.gaute.space/users/gaute" rel="me">follow me on the Fediverse</a>.
+The only really active repository here currently in my [Gaming On Linux](https://github.com/Gauteweb/Gaming-on-Linux) repo, so if you are looking for an easy way to tune your Fedora or OpenSUSE installation for gaming, look no further!
+
+If you would like to get in thouch, please <a href="https://social.gaute.space/users/gaute" rel="me">follow me on the Fediverse</a> where I post more or less daily.
 
 <!--
 **Gauteweb/Gauteweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
