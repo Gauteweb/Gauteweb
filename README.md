@@ -6,8 +6,6 @@ I graduated from "Den Polytekniske Høgskole" in the year 2000, specializing in 
 
 I have some experience in scripting using BASH, VBA, Powershell, KQL and DAX, but these days I mostly dabble with Claude Code and Mistral Vibe.
 
-In my Github repositories you will mostly find scripts, hacks and similar, mostly related to small projects that involves fiddling with a Raspberry Pi or gaming on Linux or utilities for Mac OS, and some odd Android apps. These may or may not be updated in the future. I cannot guarantee that they all work ;-)
-
 If you would like to get in thouch, please <a href="https://social.gaute.space/users/gaute" rel="me">follow me on the Fediverse</a> where I post more or less daily.
 
 <!--
